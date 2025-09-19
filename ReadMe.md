@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I am Nehit pahuja.<br><br>ABOUT ME<br><br>Aspiring Software Developer | Video Editor<br><br>Passionate about coding and creativity, I’m learning C, C++, Java, and Python while exploring problem-solving through hackathons. <br>I also have experience as a video editor (DaVinci Resolve and after effects), having worked as an creative director for a clothing brand. <br>Always eager to learn and innovate, I look forward to new opportunities to grow and collaborate.
 
 
