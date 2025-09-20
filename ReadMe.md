@@ -18,10 +18,9 @@ Hi, I am Nehit pahuja.<br><br>ABOUT ME<br><br>Aspiring Software Developer | Vide
 ---
 [![](https://visitcount.itsvg.in/api?id=NehitPahuja&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sniper15867&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
