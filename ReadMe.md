@@ -60,10 +60,10 @@ const Nehit = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash" />
-  <img src="https://skillicons.dev/icons?i=react,html,tailwind,js,ts,nodejs,nextjs,express" />
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,firebase,postman,aws,gcp,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+  <img src="https://skillicons.dev/icons?i=react,html,js,ts,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux" />
 </div>
 
 <!-- GitHub Analytics -->
