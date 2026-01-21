@@ -36,7 +36,7 @@
   About Me 
 </h2>
 
-<div align="center">
+<div align="left">
   
 ```js
 const Nehit = {
