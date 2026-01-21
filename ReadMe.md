@@ -36,6 +36,8 @@
   About Me 
 </h2>
 
+<div align="center">
+  
 ```js
 const Nehit = {
   name: 'Nehit Pahuja',
