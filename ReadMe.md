@@ -77,34 +77,34 @@ const Nehit = {
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=NehitPahuja&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=NehitPahuja&show_icons=true&hide_border=true&theme=synthwave&bg_color=00000000"
   />
   <img
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com?user=NehitPahuja&theme=tokyonight&hide_border=true&background=00000000"
+    src="https://github-readme-streak-stats.herokuapp.com?user=NehitPahuja&theme=synthwave&hide_border=true&background=00000000"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NehitPahuja&theme=tokyo-night&hide_border=true&bg_color=00000000"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NehitPahuja&theme=synthwave&hide_border=true&bg_color=00000000"
   />
 </p>
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NehitPahuja&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NehitPahuja&theme=synthwave"
   />
 </p>
 
 <p align="center">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NehitPahuja&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NehitPahuja&theme=synthwave"
   />
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NehitPahuja&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NehitPahuja&theme=synthwave"
   />
 </p>
