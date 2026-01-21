@@ -49,6 +49,9 @@ const Nehit = {
     Tools:    ['Linux Systems'],
   },
 };
+```
+
+</div>
 
 <!-- Skills and Technologies -->
 <h2 align="left">
