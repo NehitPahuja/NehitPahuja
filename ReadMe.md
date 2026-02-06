@@ -44,7 +44,7 @@ const Nehit = {
   interest: ['Deep Learning', 'AI/ML'],
   Strong believer in *learning by building*
   tech: {
-    Frontend: ['React', 'Next.js'],
+    Frontend: ['React', 'Next.js', 'Tailwind.css', 'Three.js'],
     Backend:  ['Python', 'C++', 'Java', 'Node.js'],
     Cloud:    ['AWS'],
     DB:       ['MongoDB'],
