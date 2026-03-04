@@ -75,6 +75,10 @@ const Nehit = {
 </div>
 
 <!-- GitHub Analytics -->
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h2>
 <p align="center">
   <img
     width="49%"
