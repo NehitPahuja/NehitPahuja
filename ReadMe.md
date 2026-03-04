@@ -13,6 +13,12 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" />
   </a>
   &nbsp;&nbsp;
+  
+   </a>
+  &nbsp;&nbsp;
+  <a href="https://nehitpahuja.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70" />
+  </a>
 
   <a href="https://discord.com/users/deleteduserdc69de50" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" />
