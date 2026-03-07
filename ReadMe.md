@@ -79,12 +79,6 @@ const Nehit = {
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px"> 
   Github Analytics
 </h2>
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com?user=NehitPahuja&theme=synthwave&hide_border=true&background=00000000"
-  />
-</p>
 
 <p align="center">
   <img
